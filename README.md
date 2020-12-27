@@ -1,5 +1,6 @@
 # Business Forecasting University of Notre Dame
 - [Course website](https://www3.nd.edu/~busiforc/handouts.htm)
+- Good article: https://www.predictiveanalyticsworld.com/machinelearningtimes/3-ways-test-accuracy-predictive-models/3295/
 - Knowledge Points
 ## How to forecast the diffusion of a product?
 - Bass Model
