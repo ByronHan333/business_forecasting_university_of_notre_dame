@@ -13,7 +13,8 @@
 - Decile Chart
 - https://www3.nd.edu/~busiforc/handouts/DataMining/Lift%20Charts.html
 
-## Target Shuffling
+## Is my model actually good or just a random result?
+- Target Shuffling
 - randomly shuffle y, redo modelling
 - see how many times original result is better than bogus random result
 
